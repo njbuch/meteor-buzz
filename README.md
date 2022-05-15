@@ -14,7 +14,7 @@ The following shows a very simple sample app that uses a sound effect from the b
     meteor create test
     cd test
     mkdir -p public/sounds/
-    meteor add brentjanderson:buzz
+    meteor add njbuch:buzz
     cd public/sounds
     wget http://buzz.jaysalvat.com/demo/sounds/truck.ogg
     cd -
