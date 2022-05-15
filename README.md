@@ -2,7 +2,7 @@
 Smart package that wraps [Buzz.js](http://buzz.jaysalvat.com) for MeteorJS use.
 
 ## Usage
-Using Meteor 1.0
+Using Meteor 2.0
 
 	meteor add brentjanderson:buzz
 	
